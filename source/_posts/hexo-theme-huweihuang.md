@@ -1,18 +1,23 @@
-> This Erictsu theme created by [Erictsu](http://www.Erictsu.com/) modified from the original Porter [YuHsuan](https://github.com/YenYuHsuan/hexo-theme-beantech)
-> 
-> This theme has been published to the [hexo theme list](https://hexo.io/themes/).
+---
+title: "[Hexo] Theme Erictsu"
+catalog: true
+toc_nav_num: true
+date: 2017-09-18 10:51:24
+subtitle: "This is hexo theme Demo."
+header-img: "/img/article_header/article_header.png"
+tags:
+- Hexo
+catagories:
+- Hexo
+
+---
+> This Erictsu theme created by [Erictsu](http://www.Erictsu.com/) modified from the original Porter [Hux](https://huangxuan.me/)
 
 # Live Demo
 
-Hu Weihuang Blog : [www.Erictsu.com](http://www.Erictsu.com/)
+Erictsu's Blog : [www.Erictsu.com](http://www.Erictsu.com/)
 
-![Theme_Erictsu](https://res.cloudinary.com/dqxtn0ick/image/upload/v1553666111/blog/blog.jpg)
-
-# Copyright Notice
-
-**You can free to use this theme, but you need to keep the following copyright notice on the website.**
-
-<img src="https://res.cloudinary.com/dqxtn0ick/image/upload/v1537879475/header/copyright.png" width="55%">
+![Theme Erictsu](https://res.cloudinary.com/dqxtn0ick/image/upload/v1553666111/blog/blog.jpg)
 
 # Install Hexo
 
@@ -36,6 +41,7 @@ npm install hexo-cli -g
 
 ## Init
 
+---
 ```bash
 git clone https://github.com/Erictsu/hexo-theme-Erictsu.git ./hexo-Erictsu
 cd hexo-Erictsu
@@ -43,6 +49,7 @@ npm install
 ```
 
 ## Modify
+---
 Modify `_config.yml` file with your own info.
 Especially the section:
 ### Deployment
@@ -86,7 +93,7 @@ You can decide to show post tags or not.
 ```yml
 home_posts_tag: true
 ```
- ![tag](https://raw.githubusercontent.com/Erictsu/hexo-theme-Erictsu/master/source/img/article/tag.png)
+![home_posts_tag-true](/img/article/tag.png)
 ### Markdown render
 My markdown render engine plugin is [hexo-renderer-markdown-it](https://github.com/celsomiranda/hexo-renderer-markdown-it).
 ```yml
@@ -112,6 +119,7 @@ async("https://cdn.bootcss.com/anchor-js/1.1.1/anchor.min.js",function(){
 ```
 
 ## Hexo Basics
+---
 Some hexo command:
 ```bash
 hexo new post "<post name>" # you can change post to another layout if you want
@@ -121,5 +129,10 @@ hexo deploy # hexo will push the static files automatically into the specific br
 ```
 
 # Have fun ^_^ 
+---
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+<!-- Place this tag where you want the button to render. -->
+
 Please <a class="github-button" href="https://github.com/Erictsu/hexo-theme-Erictsu" data-icon="octicon-star" aria-label="Star Erictsu/hexo-theme-Erictsu on GitHub">Star</a> this Project if you like it! <a class="github-button" href="https://github.com/Erictsu" aria-label="Follow @Erictsu on GitHub">Follow</a> would also be appreciated!
 Peace!
