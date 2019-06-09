@@ -26,13 +26,13 @@ fixed: false
 
  > CSDN博客:http://blog.csdn.net/huwh_
  >
- > Github:https://github.com/Erictsu
+ > Github:https://github.com/huweihuang
  >
- > 阿里云栖社区:https://yq.aliyun.com/u/Erictsu
+ > 阿里云栖社区:https://yq.aliyun.com/u/huweihuang
  >
- > DockOne社区:http://dockone.io/people/曲强
+ > DockOne社区:http://dockone.io/people/胡伟煌
 
 ### 联系我
 
->Email: Erictsu@foxmail.com
+>Email: huweihuang@foxmail.com
 
