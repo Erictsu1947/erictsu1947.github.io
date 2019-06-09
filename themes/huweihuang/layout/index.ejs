@@ -23,9 +23,9 @@ layout: page
             <%= post.date.format(config.date_format) %>
         </p>
         <div class="tags">
-            <% post.tags.forEach(function(tag){ %>
+            <% post.tags.forEach(function(tag){%>
               <a href="<%= config.root %>tags/#<%= tag.name %>" title="<%= tag.name %>"><%= tag.name %></a>
-            <% }) %>
+            <%}) %>
         </div>
     <%} else {%>
         <p class="post-meta">
